@@ -93,6 +93,7 @@ li::marker {
 
 ol {
 	padding-left: 1.2em;
+	list-style-type: decimal;
 }
 blockquote {
 	margin: 25px;
